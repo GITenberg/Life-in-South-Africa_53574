@@ -1,0 +1,31 @@
+_repo: Life-in-South-Africa_53574
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barker, Lady (Mary Anne)
+    aliases:
+    - Broome, Mary Anne Stewart Barker, Lady
+    - Barker, Mary Anne, Lady
+    - Stewart, Mary Anne
+    - Broome, Lady (Mary Anne)
+    birthdate: 1831
+    deathdate: 1911
+    gutenberg_agent_id: '1905'
+    url: http://www.gutenberg.org/2009/agents/1905
+description: ''
+gutenberg_issued: '2016-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53574'
+  lccn: 04024439
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'South Africa -- Description and travel'
+- !lcsh 'KwaZulu-Natal (South Africa) -- Description and travel'
+- GITenberg
+title: Life in South Africa
+url: http://www.gutenberg.org/ebooks/53574
